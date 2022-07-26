@@ -1,5 +1,7 @@
 # Homebridge Mitsubishi WF-RAC Airconditioning
 
+# Warning: this plugin is not functional yet!
+
 This Homebridge plugin allows control over a Mitsubishi airco unit with WF-RAC wifi-module.
 
 To install this plugin simple type `sudo npm install homebridge-mitsubishi-wfrac -g --unsafe-perm=true`.
