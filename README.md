@@ -41,4 +41,5 @@ After that an update of the state is performed every minute.
 ## Credits
 
 For the bases of the plugin I used: https://github.com/beele/HomebridgeLgSmartThinqAirco
-For the WF-RAC communication i used: https://github.com/jeatheak/Mitsubishi-WF-RAC-Integration
+
+For the WF-RAC communication I used: https://github.com/jeatheak/Mitsubishi-WF-RAC-Integration and https://github.com/mcheijink/WF-RAC
